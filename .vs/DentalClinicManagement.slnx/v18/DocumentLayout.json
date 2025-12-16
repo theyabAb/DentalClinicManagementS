@@ -3,184 +3,164 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|c:\\users\\hp\\source\\repos\\windowsformsapp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|c:\\users\\hp\\source\\repos\\windowsformsapp4\\windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Database\\DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Database\\DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\appoinments\\appoinmentsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\appoinments\\appoinmentsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\appoinments\\appoinmentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\appoinments\\appoinmentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\appoinments\\appoinmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\invoices\\invoicesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\invoices\\invoicesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\invoices\\invoicesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\backup\\backupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\backup\\backupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\backup\\backupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\treatments\\treatmentsform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\doctors\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\doctors\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\doctors\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\dashboard\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\dashboard\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\patients\\patientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:windowsformsapp4\\forms\\patients\\patientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\patients\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\forms\\dashboard\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagementSystems.csproj|solutionrelative:windowsformsapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}|WindowsFormsApp4\\DentalClinicManagement.csproj|solutionrelative:WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -198,30 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T23:20:03.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T23:31:34.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PatientsForm.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
@@ -233,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Program.cs",
@@ -241,20 +198,7 @@
               "RelativeToolTip": "WindowsFormsApp4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T23:07:12.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T05:18:03.604Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-28T23:07:12.904Z"
             },
             {
               "$type": "Document",
@@ -269,6 +213,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreatmentsForm1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:06:52.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:31:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:38:36.127Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\App.config",
@@ -277,33 +257,29 @@
               "RelativeToolTip": "WindowsFormsApp4\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-02T23:51:42.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T23:51:42.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "LoginForm.resx",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx",
               "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-07T20:05:29.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T20:05:29.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
               "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T23:51:43.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T23:51:43.627Z"
             },
             {
               "$type": "Document",
@@ -313,7 +289,6 @@
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
               "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
-              "ViewState": "AgIAAEABAAAAAAAAAAAgwGIBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T09:11:04.185Z"
             },
@@ -330,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Database\\DB.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Database\\DB.cs",
@@ -343,273 +318,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TreatmentsForm1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:17:57.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BackupForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAcwKQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:54:55.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TreatmentsForm1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:17:57.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppoinmentsForm.resx",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-07T05:49:31.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppoinmentsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T05:49:31.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "InvoicesForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:23:12.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InvoicesForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:23:05.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DoctorsForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T07:45:58.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DoctorsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T07:45:58.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BackupForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:54:53.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAD4v6MAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T06:29:47.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AppoinmentsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:28:18.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "InvoicesForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:52:46.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\app.manifest",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\app.manifest",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\app.manifest",
-              "RelativeToolTip": "WindowsFormsApp4\\Properties\\app.manifest",
-              "ViewState": "AgIAACwAAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2025-12-04T07:27:07.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:57:22.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:56:40.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T01:01:00.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "InvoicesForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
-              "ViewState": "AgIAAKgBAAAAAAAAAAAowLoBAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:54:44.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BackupForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAqwH8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:55:45.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BackupForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T21:29:15.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "TreatmentsForm1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
-              "ViewState": "AgIAACoBAAAAAAAAAAAowEgBAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:19:43.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TreatmentsForm1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:06:49.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TreatmentsForm1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T20:06:52.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
               "Title": "DashboardForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.Designer.cs",
@@ -621,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 13,
               "Title": "DoctorsForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.Designer.cs",
@@ -630,6 +338,269 @@
               "ViewState": "AgIAAFgBAAAAAAAAAAAowGUBAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T07:47:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAKIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:21:03.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientsForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:42:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackupForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:54:55.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TreatmentsForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:17:57.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppoinmentsForm.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-07T05:49:31.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppoinmentsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T05:49:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InvoicesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:23:12.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvoicesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:23:05.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:45:58.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BackupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:54:53.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAD4v6MAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:29:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppoinmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Appoinments\\AppoinmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:28:18.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InvoicesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:52:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\app.manifest",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\app.manifest",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\app.manifest",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\app.manifest",
+              "ViewState": "AgIAACwAAAAAAAAAAAAawAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-12-04T07:27:07.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:57:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Auth\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:56:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T01:01:00.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InvoicesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Invoices\\InvoicesForm.Designer.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAowLoBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:54:44.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BackupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwH8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:55:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BackupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Backup\\BackupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:29:15.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DoctorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:09:10.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TreatmentsForm1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAowEgBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:19:43.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TreatmentsForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Treatments\\TreatmentsForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:06:49.4Z"
             },
             {
               "$type": "Document",
@@ -644,54 +615,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "DoctorsForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Doctors\\DoctorsForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:09:10.143Z"
+              "WhenOpened": "2025-11-28T14:01:13.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "PatientsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.Designer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAKIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T05:21:03.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "PatientsForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:42:10.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "PatientsForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Patients\\PatientsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T17:22:23.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "DashboardForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
@@ -699,30 +634,6 @@
               "RelativeToolTip": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T13:34:51.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "DashboardForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Forms\\Dashboard\\DashboardForm.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:01:13.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Program.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:38:36.127Z"
             }
           ]
         }
