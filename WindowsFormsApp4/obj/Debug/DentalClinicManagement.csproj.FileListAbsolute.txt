@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\DentalClinicManagement.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Appoinments.AppoinmentsForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Auth.LoginForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Backup.BackupForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Dashboard.DashboardForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Doctors.DoctorsForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Invoices.InvoicesForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Patients.PatientsForm.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Forms.Treatments.TreatmentsForm1.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\DentalClinicManagement.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\DentalClinicManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\DentalClinic.exe.config
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\DentalClinic.exe
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\DentalClinic.pdb
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\DentalClinic.exe
+C:\Users\hp\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\DentalClinic.pdb
