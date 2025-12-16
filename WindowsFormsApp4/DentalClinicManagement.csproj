@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD7A6C09-B0CD-48DA-AA79-3A44CD269C0B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp4</RootNamespace>
+    <AssemblyName>DentalClinic</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\DB.cs" />
+    <Compile Include="Forms\Appoinments\AppoinmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Appoinments\AppoinmentsForm.Designer.cs">
+      <DependentUpon>AppoinmentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Auth\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Auth\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Backup\BackupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Backup\BackupForm.Designer.cs">
+      <DependentUpon>BackupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dashboard\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dashboard\DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Doctors\DoctorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Doctors\DoctorsForm.Designer.cs">
+      <DependentUpon>DoctorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Invoices\InvoicesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Invoices\InvoicesForm.Designer.cs">
+      <DependentUpon>InvoicesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Patients\PatientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Patients\PatientsForm.Designer.cs">
+      <DependentUpon>PatientsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Treatments\TreatmentsForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Treatments\TreatmentsForm1.Designer.cs">
+      <DependentUpon>TreatmentsForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Appoinments\AppoinmentsForm.resx">
+      <DependentUpon>AppoinmentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Auth\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Backup\BackupForm.resx">
+      <DependentUpon>BackupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dashboard\DashboardForm.resx">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Doctors\DoctorsForm.resx">
+      <DependentUpon>DoctorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Invoices\InvoicesForm.resx">
+      <DependentUpon>InvoicesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Patients\PatientsForm.resx">
+      <DependentUpon>PatientsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Treatments\TreatmentsForm1.resx">
+      <DependentUpon>TreatmentsForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\245-2458089_loginbutton-login-button-logo-png[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\245-2458089_loginbutton-login-button-logo-png[1]1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\609584bc-0509-42cf-8cb3-d2a559be34d3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\authorization %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b7644f80-4867-4c67-b25a-5ae4d9201226.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b7644f80-4867-4c67-b25a-5ae4d92012261.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\العناية بالأسنان خلفية الإعلان الزرقاء ضرس العناية بالأسنان أزرق خلفية زرقاء خلفية صورة خلفية للتنزيل المجاني %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Happy tooth character signing good with his hand with transparent background _ Premium AI-generated PSD.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تنزيل %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caries.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\858199e7-30b8-4a2f-a681-52b47d5587de.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8630f4c8-392b-49fd-9036-c86545aa483e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usd-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95707 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIF.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stock Photos &amp; Royalty-Free Images _ Adobe Stock.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stock Photos &amp; Royalty-Free Images _ Adobe Stock1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Business Technology Background Banner Design, Wallpaper, Psd, Slogan Background Image And Wallpaper for Free Download.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_undo_icon_180820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1f682bca-30b0-4ff0-a1be-8790733a5c8c.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0bb87d92-4971-4d57-9d5a-2b0e6761725b.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_٢٠٢٥١١٣٠_١٧٥٠١٧_٠٥٥١٤٨[2].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e9def10cd16308da93daad122c7b8a8f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free Dental Knowledge Glows Image _ Download at StockCake.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_notes_list_tasks_icon_191193 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_٢٠٢٥١١٣٠_١٧٥٠١٧_٠٥٥١٤٨.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\العناية بالأسنان خلفية الإعلان الزرقاء ضرس العناية بالأسنان أزرق خلفية زرقاء خلفية صورة خلفية للتنزيل المجاني.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\532632c4-552b-4256-9a45-1e307cf9962a5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5ceae6f2-ebab-4722-9ce4-0df193fa8306.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Un nouveau moyen de réparer l%27émail des dents après une carie _ - Top Santé.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7a30d4d9-bcf5-4100-af0f-7678a9ba75d9.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تنزيل.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Close-up of Oral Cleaning with Water Spray _ TheCandie_com.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0f87309e-8bb3-4368-aaf1-00883da57012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0bb87d92-4971-4d57-9d5a-2b0e6761725b1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_reload_15002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-recovery %283%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
